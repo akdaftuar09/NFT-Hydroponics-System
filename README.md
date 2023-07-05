@@ -1,4 +1,4 @@
-# final-project
+# NFT Hydroponics System-final-project
 Even though agriculture has been the source of nutrition since a very a long time, in the past few
 decades its quality(of nutriton) has been degraded with accusations of depleting natural resources.
 As the world's population is expected to be about 9.8 billion people by 2050, it stares at increasing

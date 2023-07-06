@@ -27,5 +27,7 @@ for plant growth with hassle free built in automatic control and monitoring syst
 # Screenshots
 ![Hydroponics](https://github.com/akdaftuar09/final-project/assets/64327403/e67efd20-7488-4dd4-a851-55faae8cc158)
 
+![Probelm Statement](https://github.com/akdaftuar09/final-project/assets/64327403/0919113b-01b5-48b1-a848-f34d4f876b4c)
+
 
 

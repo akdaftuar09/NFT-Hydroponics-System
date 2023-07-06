@@ -25,4 +25,5 @@ no presence at the farmed area. The developed system is proven to provide a suff
 for plant growth with hassle free built in automatic control and monitoring system.
 
 # Screenshots
-![Uploading Probelm Statement.png…]()
+
+

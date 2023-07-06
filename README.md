@@ -25,5 +25,7 @@ no presence at the farmed area. The developed system is proven to provide a suff
 for plant growth with hassle free built in automatic control and monitoring system.
 
 # Screenshots
+![Hydroponics](https://github.com/akdaftuar09/final-project/assets/64327403/e67efd20-7488-4dd4-a851-55faae8cc158)
+
 
 

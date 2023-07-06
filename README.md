@@ -29,5 +29,9 @@ for plant growth with hassle free built in automatic control and monitoring syst
 
 ![Probelm Statement](https://github.com/akdaftuar09/final-project/assets/64327403/0919113b-01b5-48b1-a848-f34d4f876b4c)
 
+![Solution](https://github.com/akdaftuar09/final-project/assets/64327403/39f32d91-cb25-4666-b12b-f8239b2453cc)
+
+![CAD Design](https://github.com/akdaftuar09/final-project/assets/64327403/a9c60daf-75fb-4bc7-a38b-1cf3bb91db98)
+
 
 

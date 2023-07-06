@@ -33,5 +33,7 @@ for plant growth with hassle free built in automatic control and monitoring syst
 
 ![CAD Design](https://github.com/akdaftuar09/final-project/assets/64327403/a9c60daf-75fb-4bc7-a38b-1cf3bb91db98)
 
+![ESP32](https://github.com/akdaftuar09/final-project/assets/64327403/7026733d-0a84-422e-846f-f95f1fa7890c)
+
 
 

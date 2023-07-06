@@ -23,3 +23,6 @@ via Blynk application, which provides real time changes.
 This offers advantage for the user to monitor and control the system with less effort and requires
 no presence at the farmed area. The developed system is proven to provide a sufficient nutrient
 for plant growth with hassle free built in automatic control and monitoring system.
+
+# Screenshots
+![Uploading Probelm Statement.png…]()

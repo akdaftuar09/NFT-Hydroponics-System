@@ -24,7 +24,7 @@ This offers advantage for the user to monitor and control the system with less e
 no presence at the farmed area. The developed system is proven to provide a sufficient nutrient
 for plant growth with hassle free built in automatic control and monitoring system.
 
-# Screenshots
+# Images / Screenshots
 ![Hydroponics](https://github.com/akdaftuar09/final-project/assets/64327403/e67efd20-7488-4dd4-a851-55faae8cc158)
 
 ![Probelm Statement](https://github.com/akdaftuar09/final-project/assets/64327403/0919113b-01b5-48b1-a848-f34d4f876b4c)
@@ -34,6 +34,18 @@ for plant growth with hassle free built in automatic control and monitoring syst
 ![CAD Design](https://github.com/akdaftuar09/final-project/assets/64327403/a9c60daf-75fb-4bc7-a38b-1cf3bb91db98)
 
 ![ESP32](https://github.com/akdaftuar09/final-project/assets/64327403/7026733d-0a84-422e-846f-f95f1fa7890c)
+
+![Circuit](https://github.com/akdaftuar09/final-project/assets/64327403/b9fa824b-f915-4a0b-a357-7e00c42ebd37)
+
+![Circuit Setup](https://github.com/akdaftuar09/final-project/assets/64327403/56dfffb8-8f88-477b-aab4-1d16e8f4ffee)
+
+![Working Model](https://github.com/akdaftuar09/final-project/assets/64327403/d4840388-5e10-4def-bf86-f1368e058bd2)
+
+![Advantages](https://github.com/akdaftuar09/final-project/assets/64327403/d215967a-c270-46d1-8850-bcf496058f82)
+
+![Comparision](https://github.com/akdaftuar09/final-project/assets/64327403/82274d54-5191-4b6e-870e-65177348168f)
+
+
 
 
 
